@@ -24,7 +24,7 @@
 #
 # YOUR SOLE OBLIGATION IS TO STIPULATE (INCLUDED) THE NAMES OF THE AUTHORS OF THE PROGRAM WITH THE COPYRIGHT NOTICE IN
 # ALL SUBSTANTIAL PARTS OF THE SOFTWARE.
-
+#
 # ----------------------------------------------**********ANDXEUR***********----------------------------------------
 # We developers develop software that you use on a daily basis, doesn’t that mean we code a part of your life?     #
 # ----------------------------------------------**********************----------------------------------------------

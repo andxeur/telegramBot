@@ -1,0 +1,30 @@
+© Copyright (c) 2023 ANDXEUR
+
+Permission is granted, free of charge, to any person who obtains a copy
+of this software and associated documentation files (the "Software"), to be processed
+in the Software without restriction, including without limitation the rights
+use, copy, modify, merge, publish, distribute, sublicense and/or sell
+copies of the Software, and to allow persons to whom the Software is
+provided for this purpose, subject to the following conditions:
+
+**************************************************************************************
+The copyright notice above and this permission notice must be included in all
+copies or substantial parts of the Software.
+**************************************************************************************
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT ANY WARRANTY, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NOT INFRINGEMENT. UNDER NO CIRCUMSTANCES THE
+AUTHORS OR COPYRIGHT HOLDERS ARE RESPONSIBLE FOR ANY CLAIMS, DAMAGES OR OTHER
+LIABILITY, CONTRACTUAL, TORT OR OTHERWISE, ARISING FROM:
+IN CONNECTION WITH THE SOFTWARE, USE OR OTHER TRANSACTIONS IN THE SOFTWARE.
+
+UNDER NO CIRCUMSTANCES THE AUTHORS OR HOLDERS OF THESE PROGRAMS ARE RESPONSIBLE FOR ANY DAMAGE
+OR OTHER LIABILITY, CAUSED BY THIS PROGRAM
+
+YOUR SOLE OBLIGATION IS TO STIPULATE (INCLUDED) THE NAMES OF THE AUTHORS OF THE PROGRAM WITH THE COPYRIGHT NOTICE IN
+ALL SUBSTANTIAL PARTS OF THE SOFTWARE.
+
+----------------------------------------------**********ANDXEUR***********----------------------------------------
+We developers develop software that you use on a daily basis, doesn’t that mean we code a part of your life?     #
+----------------------------------------------**********************----------------------------------------------
